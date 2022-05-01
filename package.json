@@ -1,0 +1,12 @@
+{
+  "name": "Sequelize_Connect_DataBase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/baozoudashijian/Sequelize_Connect_DataBase.git",
+  "author": "Roger Zhang <1787009521@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sequelize": "^6.19.0"
+  }
+}
